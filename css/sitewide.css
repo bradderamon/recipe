@@ -47,6 +47,7 @@ body {
 	max-width: 1200px;
 	padding: 2em;
 	border: 5px solid #eee;
+	background-color: #FFF8E0;
 }
 
 h1 {
@@ -88,7 +89,7 @@ ul {
 ul li {
 	font-family: 'Italiana', serif;
   	padding-left: 2rem;
-  	background-image: url(meatball.svg);
+  	background-image: url(https://vignette.wikia.nocookie.net/petpedia/images/e/e6/Giant_meatball.png/revision/latest?cb=20110318225749);
   	background-position: 0 0;
   	background-size: 1.6rem 1.6rem;
   	background-repeat: no-repeat;
