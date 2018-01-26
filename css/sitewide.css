@@ -59,6 +59,7 @@ h2 {
 	font-family: 'Italiana', serif;
 	font-size: 1.2em;
 	font-style: italic;
+	line-height: 0.2em;
 	color: grey;
 }
 
@@ -66,6 +67,8 @@ h3 {
 	font-family: 'Italiana', serif;
 	font-size: 1.5em;
 	font-style: bold;
+	text-transform: uppercase;
+	line-height: .6em;
 }
 
 p {
