@@ -50,28 +50,46 @@ body {
 }
 
 h1 {
-	font-size: 2.8em;
+	font-size: 4em;
+	font-family: 'Italianno', cursive;
 }
 
 h2 {
+	font-family: 'Italiana', serif;
 	font-size: 1.2em;
 	font-style: italic;
 	color: grey;
 }
 
 h3 {
+	font-family: 'Italiana', serif;
 	font-size: 1.5em;
 	font-style: bold;
 }
 
 p {
+	font-family: 'Italiana', serif;
 	margin-top: 3em;
 	margin-right: 0;
 	margin-bottom: 0.5em;
 	margin-left: 0;
 	padding: 1em;
 	padding-bottom: 2em;
-	border-top: 15px solid red;
-	border-left: 10px dotted brown;
-	background: yellow;
+	border-top: 15px solid #B83113;
+	border-left: 10px dotted #6B2E0E;
+	background: #FFF276;
+}
+
+ul {
+	padding-left: 2rem;
+  	list-style-type: none;
+}
+
+ul li {
+	font-family: 'Italiana', serif;
+  	padding-left: 2rem;
+  	background-image: url(meatball.svg);
+  	background-position: 0 0;
+  	background-size: 1.6rem 1.6rem;
+  	background-repeat: no-repeat;
 }
