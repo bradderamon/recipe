@@ -53,6 +53,7 @@ body {
 h1 {
 	font-size: 4em;
 	font-family: 'Italianno', cursive;
+	text-align: center;
 }
 
 h2 {
@@ -73,13 +74,14 @@ h3 {
 
 p {
 	font-family: 'Italiana', serif;
+	font-weight: bold;
 	margin-top: 3em;
 	margin-right: 0;
 	margin-bottom: 0.5em;
 	margin-left: 0;
 	padding: 1em;
 	padding-bottom: 2em;
-	border-top: 15px solid #B83113;
+	border-top: 15px dashed #B83113;
 	border-left: 10px dotted #6B2E0E;
 	background: #FFF276;
 }
@@ -87,6 +89,7 @@ p {
 ul {
 	padding-left: 2rem;
   	list-style-type: none;
+  	font-weight: bold;
 }
 
 ul li {
@@ -96,4 +99,5 @@ ul li {
   	background-position: 0 0;
   	background-size: 1.6rem 1.6rem;
   	background-repeat: no-repeat;
+
 }
